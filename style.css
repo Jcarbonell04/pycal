@@ -1,0 +1,51 @@
+body {
+    background-color: maroon;
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px 300px;
+    margin-bottom: 80px;
+    text-align: center;
+    letter-spacing: 0.3;
+  }
+
+.py {
+    background-color: white;
+    border: solid white;
+    border-radius: 30px;
+    margin-bottom: 1cm;
+    padding: 25px 75px ;
+}  
+  
+.pycal {
+    background-color: rgb(235, 235, 235);
+    border: solid grey 1px;
+    margin: 50;
+    padding: 15px 50px;
+    text-align: left;
+}
+h1 {
+    color: #808000;
+    text-align: left;
+}
+
+p {
+    letter-spacing: 0.3;
+    text-align: left;
+    font-size: 14px;
+}
+
+.cal {
+    font-variant: small-caps;
+    background-color:  rgb(235, 235, 235);
+    border: solid black 1px;
+    padding: 2px 0px;
+    letter-spacing: 0.01px;
+}
+
+.green {
+    font-variant: small-caps;
+}
+
+h2, h3 {
+    color: maroon;
+    text-align: left;
+}
